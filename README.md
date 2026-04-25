@@ -1,96 +1,109 @@
-<h1 align="center">🧑‍💻 My Portfolio — Piyush Kumar Jha</h1>
+# 🧑‍💻 Piyush Kumar Jha — Personal Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Real+World+Products+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
-</p>
+> A fast, minimal, and visually engaging developer portfolio built with pure HTML, CSS & JavaScript — no frameworks, no build tools, just clean code.
 
-<p align="center">
-  My personal developer portfolio — built from scratch with pure HTML, CSS & JavaScript, featuring a live 3D hero animation and a clean showcase of everything I've built.
-</p>
+🔗 **Live Site:** [piyush-dev-nine.vercel.app](https://piyush-dev-nine.vercel.app/)
 
-<p align="center">
-  🔗 <strong>Live:</strong> <a href="https://piyush-dev-nine.vercel.app/" target="_blank">piyush-dev-nine.vercel.app</a>
-</p>
+![Portfolio Preview](https://img.shields.io/badge/Status-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)
+![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-F7DF1E?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/3D-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Deployed On](https://img.shields.io/badge/Deployed%20On-Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-## ✨ What's Inside
+## 📸 Preview
 
-- **3D Hero Animation** — Live interactive scene built with Three.js, giving the landing section a unique feel
-- **About Me** — A quick intro to who I am and what I do
-- **Tech Stack** — Visual showcase of all the tools and technologies I work with
-- **Projects** — Highlighted work including Cliniqo, Cartify & Nimbus Weather
-- **Contact** — Easy ways to reach me directly
+> *Visit the live site for the full experience with 3D animations.*
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Project Structure
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| 🏥 **Cliniqo** | AI-powered hospital management system with video consultations, voice assistant & appointment booking | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cliniqo-ten.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/-Cliniqo-) |
-| 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist & payment flow | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
-| 🌤️ **Nimbus Weather** | Real-time weather app with AQI, hourly forecast, dark mode & animated backgrounds | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://nimbus-personal-weather-app.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/Nimbus-Personal-Weather-App) |
-
----
-
-## 🛠️ Built With
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Deployed on Vercel
-
-The portfolio is live on Vercel. To deploy your own copy:
-
-1. Fork or clone this repo
-2. Go to [vercel.com](https://vercel.com), create a new project and import your repo
-3. No environment variables needed — it's a pure static site
-4. Hit deploy and you're done!
-
----
-
-## ⚙️ Running Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/Piyush079-jha/My_Portfolio.git
-
-# Open index.html directly in your browser
-# Or use Live Server in VS Code for the best experience
+```
+My_Portfolio/
+├── index.html         
 ```
 
-No dependencies. No build step. Just open and run. ✅
+---
+
+## ✨ Sections
+
+| Section | Description |
+|---------|-------------|
+| **Hero** | Full-screen landing with a live interactive 3D animation using Three.js |
+| **About** | Brief intro — who I am, what I do, and what drives me |
+| **Tech Stack** | Visual grid of all tools and technologies I work with |
+| **Projects** | Highlighted work with live links — Cliniqo, Cartify & Nimbus |
+| **Contact** | Direct links to email, LinkedIn & GitHub |
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Used
 
-Hi, I'm **Piyush Jha** — a passionate full-stack developer from India who loves turning ideas into real, working products. I built this portfolio to reflect who I am as a developer — the projects I've shipped, the stack I work with, and the problems I love solving. If you like what you see, a ⭐ on the repo would mean a lot! And if you want to connect, collaborate, or just say hi — I'm always up for it. 🙌
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="mailto:piyushjha1134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-jha1134/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Piyush079-jha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure & semantic markup |
+| CSS3 | Styling, animations & responsive layout |
+| JavaScript (ES6+) | Interactivity & DOM manipulation |
+| Three.js | 3D hero section animation |
+| Vercel | Hosting & deployment |
 
 ---
 
-<p align="center">
-  <i>⭐ "The best way to learn is to build. So I keep building." ⭐</i>
-</p>
+## 🚀 Running Locally
+
+No dependencies. No installs. No build step.
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Piyush079-jha/My_Portfolio.git
+
+# 2. Open in VS Code
+cd My_Portfolio
+code .
+
+# 3. Run with Live Server (VS Code extension)
+#    Right-click index.html → Open with Live Server
+```
+
+Or just open `index.html` directly in your browser. ✅
+
+---
+
+## 📦 Deployment
+
+This is a **static site** — deploying is as simple as it gets.
+
+**Via Vercel:**
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com) → New Project → Import repo
+3. No environment variables needed
+4. Click Deploy — done in 30 seconds ⚡
+
+**Via GitHub Pages:**
+1. Go to repo → Settings → Pages
+2. Set source to `main` branch → `/root`
+3. Your site will be live at `https://yourusername.github.io/My_Portfolio`
+
+---
+
+## 🎨 Design Decisions
+
+- **No frameworks** — kept it intentionally vanilla to demonstrate core web fundamentals
+- **Three.js for 3D** — adds a memorable first impression without bloating the bundle
+- **Mobile-first CSS** — fully responsive across all screen sizes
+- **Performance-focused** — no unnecessary libraries, fast load times
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [piyushjha1134@gmail.com](mailto:piyushjha1134@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/piyush-jha1134](https://linkedin.com/in/piyush-jha1134) |
+| 🐙 GitHub | [github.com/Piyush079-jha](https://github.com/Piyush079-jha) |
+
+---
+
+<p align="center">Built with ❤️ using pure HTML, CSS & JavaScript</p>
